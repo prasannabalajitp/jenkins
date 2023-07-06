@@ -2,14 +2,13 @@ echo "Hello, Prasanna T P "
 echo "Today is Thursday"
 echo "Thanks!!!"
 
-echo "Enter Size(N)"
-read N
+
 
 i=1
 sum=0
 
 echo "Enter Numbers"
-while [ $i -le $N ]
+while [ $i -le 6 ]
 do
   read num           #get number
   sum=$((sum + num)) #sum+=num
