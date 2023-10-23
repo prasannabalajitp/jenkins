@@ -6,7 +6,7 @@ echo "Hi Anudeep"
 
 i=1
 sum=0
-num = 5
+num=5
 echo "Enter Numbers"
 while [ $i -le num ]
 do
