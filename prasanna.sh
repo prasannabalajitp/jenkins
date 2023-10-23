@@ -2,7 +2,7 @@ echo "Hello, Prasanna T P "
 echo "Today is Thursday"
 echo "Thanks!!!"
 
-
+echo "Hi Anudeep"
 
 # i=1
 # sum=0
