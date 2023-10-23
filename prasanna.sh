@@ -8,7 +8,7 @@ i=1
 sum=0
 num=5
 echo "Enter Numbers"
-while [ $i -le num ]
+while [ $i -le $num ]
 do
              #get number
   sum=$((sum + num)) #sum+=num
